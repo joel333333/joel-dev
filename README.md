@@ -33,6 +33,7 @@
   &nbsp;&nbsp;&nbsp;
   <!--<img src="" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp; -->
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2?size=40" alt="LinkedIn" />
 </p>
 
 ## 🛠️ Tools & IDEs I Use
