@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Apple](#000000)
 
-###Technologies I Know
+## Technologies I Know
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50"  />
 
 ## 🛠️ Tools & IDEs I Use
@@ -25,9 +25,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobe-xd)
 
-##Dream Company
+## Dream Company
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50" height="50" />
-
+<i class="devicon-apple-original"></i>
+          
 ---
 
 > “Code like poetry — thoughtful, elegant, and impactful.”
