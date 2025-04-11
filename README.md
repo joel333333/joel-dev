@@ -1,15 +1,16 @@
-# Hi there, I'm Joe! 👋
+# Hi there, I'm Joel! 👋
 
-**Self-taught developer | Book lover | Future FAANG-ster**
+**Self-taught developer | Book lover | Future FAANG-ster | Tech Enthusiast**
 
 - 🌱 Currently learning DSA and Backend Dev
 - 🤖 Exploring ML & AI
 - 💬 Ask me about web dev or habit tracking!
-- 📫 How to reach me: [LinkedIn](your-link) | [Twitter](your-link)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joel-a-r/) | [Twitter](https://x.com/joel__professor) | [Instagram](https://www.instagram.com/smuggler_teritory?igsh=MXJ0MGloNGZ4Zmx3MA==)
 - ✨ Fun Fact: I play Leap Chess like a grandmaster in training
 
 ## 🚀 I Code In
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
