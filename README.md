@@ -58,7 +58,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="" width="55" height="55"/>
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255?size=40" alt="Eclipse IDE" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
   <img src="" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
