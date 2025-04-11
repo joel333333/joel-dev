@@ -22,6 +22,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobe-xd)
 
+##Dream Company
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+
 ---
 
 > “Code like poetry — thoughtful, elegant, and impactful.”
