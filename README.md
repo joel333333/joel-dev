@@ -23,7 +23,7 @@
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobe-xd)
 
 ##Dream Company
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg width="40" height="40" />
 
 ---
 
